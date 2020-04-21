@@ -1,0 +1,6 @@
+.venv
+.vecode/
+
+settings.json
+
+__pycache__/
